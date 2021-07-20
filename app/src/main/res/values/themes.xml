@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BasicBankingApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FF0000</item>
+        <item name="colorPrimaryVariant">#AF0000</item>
+        <item name="colorOnPrimary">#FFC7C7</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#8900FF</item>
+        <item name="colorSecondaryVariant">#AA84EF</item>
+        <item name="colorOnSecondary">#BB6FEA</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+#Tue Jul 20 17:28:59 IST 2021
+base.0=E\:\\TSF Projects\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
